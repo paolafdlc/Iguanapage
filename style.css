@@ -1,0 +1,117 @@
+body {
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+  font-family: Raleway, sans-serif;
+  background-color: #000000;
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 3.125em;
+}
+
+h2 {
+  font-size: 2.5em;
+  font-weight: 300;
+}
+
+p {
+  font-weight: 300;
+  font-size: 1em;
+}
+
+.header {
+  margin: 7px 530px;
+}
+
+.hero-img {
+  width: 1vw;
+  height: 727px;
+}
+
+.desc-section {
+  margin: 0;
+  padding: 45px 0;
+  background-color: #000000;
+}
+
+.container {
+	width: 70%;
+	margin: 0 auto;
+}
+
+.desc-texto {
+  width: 60%;
+  display: inline-block;
+  padding-right: 20px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.desc-imagen {
+  display: inline-block;
+  width:25%;
+  vertical-align: middle;
+}
+
+.desc-imagen img {
+  width: 100%;
+}
+
+.icons-section {
+  background-color: #1E1A13;
+	text-align: center;
+	padding: 50px;
+}
+
+.icons-section h2 {
+  font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 1em;
+}
+
+.iconos {
+  display: inline-block;
+	width: 30%;
+}
+
+.iconos p{
+  font-size: 25px;
+  	font-weight: 300;
+}
+
+
+.photo-section {
+  text-align: center;
+	padding: 75px 0;
+}
+.imagen{
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
+}
+
+.imagen img{
+  width: 316px;
+  height: 202px;
+}
+
+.footer {
+  background-color: #1E1A13;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	color: #ffffff;
+}
+
+.footer a{
+  color: #ffffff;
+  text-decoration: none;
+}
